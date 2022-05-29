@@ -2,7 +2,7 @@
 
 ## Overview of the Project
 
-For an article on McMinnville, Oregon, this project is to build a webpage detailing information on UFOs and UFO sightings. An initial dataset was collected with details of the sightings on a period of time.
+For an article on McMinnville, Oregon, this project is to build a webpage detailing information on UFOs and UFO sightings. An initial dataset was collected with details of the sightings over a period of time.
 
 As part of this project a professional webpage was required with the details. The data collected can be put as a table, but additional dynamic filtering is required to enable users to quickly analyze through the data for their interest using filters.
 
@@ -13,7 +13,7 @@ As part of this project a professional webpage was required with the details. Th
 
 ## Results
 
-The webpage was built using javascript and bootstrap styles giving the dynamic webpage a very aesthetic. Dynamic filters were added to filter the data using anyone or more of the following attributes:
+The webpage was built using javascript and bootstrap styles. Dynamic filters were added to filter the data using any one or more of the following attributes:
 1. Date
 2. City
 3. State
@@ -22,7 +22,7 @@ The webpage was built using javascript and bootstrap styles giving the dynamic w
 
 ### Process to Perform a Search
 
-1. Below the details on UFO and few details on the topic, there is a table of all UFO sightings with filter options in the left side. By default no filter options are added. 
+1. Below the initial summary on the webpage, there is a table of all UFO sightings with filter options in the left side. By default no filter options are added. 
 
     ![ImageWithNoFilter](Resources/ImageWithNoFilter.png)
 
